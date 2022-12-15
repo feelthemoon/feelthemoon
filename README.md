@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **vue/js/ts**
 
-- 📫 How to reach me **programmer28.vdovin@yandex.ru**
+- 📫 How to reach me **me@vladislavvdovin.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
