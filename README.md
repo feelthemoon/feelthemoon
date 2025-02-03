@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feelthemoon" alt="feelthemoon" /></a> </p>
 
-- 🌱 I’m currently learning **nuxt3**
-
 - 💬 Ask me about **vue/js/ts**
 
 - 📫 How to reach me **me@vladislavvdovin.ru**
